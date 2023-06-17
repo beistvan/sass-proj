@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "main.sass"
+  ],
+  "names": [],
+  "mappings": "AAAQ;AAKR;EACE;EACA;;;AAEF;EACE;EACA;EACA;EAeE;EACA;;AAfF;EACE;EACA;EACA;EACA;EACA;EACA;EACA;EACA,kBAnBgB;;AAoBhB;EACE;EACA;;;AAMN;EACE;EACA;;AACA;EACE;EACA;EACA;EACA;EACA,OAnCiB;EAoCjB,QApCiB",
+  "file": "main.css"
+}
